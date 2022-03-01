@@ -17,7 +17,7 @@ public class Derby {
     private final String port;
     private final String derby;
     private final Connection conn;
-    private Statement statement;
+    private Statement statement; // hello world
 
 
 
