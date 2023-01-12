@@ -1,11 +1,11 @@
 # Informatics-Large-Practical
 
-Project objective: Implement an algorithm for a drone delivery service that will pick up customer orders and deliver
+Project objective: Implement a pathfinding algorithm for a drone delivery service that will pick up customer orders and deliver
 the orders to specified locations, whilst avoiding restricted areas (called 'No-Fly-Zones')
 
 Coded in Java
 
-Mark: (Pending)
+Mark: (82%)
 
 # Files
 
